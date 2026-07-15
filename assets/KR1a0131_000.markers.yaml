@@ -188,16 +188,19 @@ markers:
       ', id: KR1a0131_krp_000-bkkkrnewl36}
   - {type: line-break, offset: 237, content: '', id: KR1a0131_WYG_000-3a01}
   - {type: indent, offset: 237, content: 　　　　, id: KR1a0131_krp_000-bkkind33}
+  - {type: substitution, offset: 248, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20215}}
   - {type: 'kr:newline', offset: 254, content: '
 
       ', id: KR1a0131_krp_000-bkkkrnewl37}
   - {type: line-break, offset: 254, content: '', id: KR1a0131_WYG_000-3a02}
   - {type: indent, offset: 254, content: 　　　　, id: KR1a0131_krp_000-bkkind34}
+  - {type: substitution, offset: 259, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20215}}
   - {type: 'kr:newline', offset: 271, content: '
 
       ', id: KR1a0131_krp_000-bkkkrnewl38}
   - {type: line-break, offset: 271, content: '', id: KR1a0131_WYG_000-3a03}
   - {type: indent, offset: 271, content: 　　　　, id: KR1a0131_krp_000-bkkind35}
+  - {type: substitution, offset: 282, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20215}}
   - {type: 'kr:newline', offset: 288, content: '
 
       ', id: KR1a0131_krp_000-bkkkrnewl39}
@@ -218,6 +221,7 @@ markers:
       ', id: KR1a0131_krp_000-bkkkrnewl42}
   - {type: line-break, offset: 339, content: '', id: KR1a0131_WYG_000-3a07}
   - {type: indent, offset: 339, content: 　　　　, id: KR1a0131_krp_000-bkkind39}
+  - {type: substitution, offset: 345, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: 'kr:newline', offset: 356, content: '
 
       ', id: KR1a0131_krp_000-bkkkrnewl43}
@@ -259,4 +263,4 @@ markers:
 
       ', id: KR1a0131_krp_000-bkkkrnewl47}
   back: []
-hash: sha256:3d36ef5e9e41df76217c6862d9daabeb755e19e39818e62d7a38cf50289effbd
+hash: sha256:3d2500068cc3256648e02ae3960c2b6ef1c2577d1d87293700559b585b167853
